@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Majesties high commissioner and the right honourable the Estates of Parliament, Evan Mcgrigor merchant in Edinburgh, and master of the Caird manufactory, ...</title>
+            <author>McGrigor, Evan.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26407</idno><idno type="EEBO-CITATION">99886464</idno>
+  <idno type="VID">187242</idno>
+  <idno type="EEBO-PROQUEST">2240898272</idno>
+  
+            <idno type="STC">Wing M126A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1852.c.28[37]</idno>
+            <idno type="STC">ESTC R226050</idno>
+            <idno type="PROQUEST">ocm99886464</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886464e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187242)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:2[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Majesties high commissioner and the right honourable the Estates of Parliament, Evan Mcgrigor merchant in Edinburgh, and master of the Caird manufactory, ...</title>
+                  <author>McGrigor, Evan.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">McGregor family --  Early works to 1800.</term>
+               <term type="topical_term">Names, Personal --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187242:1"/>
+            <pb n="1" facs="tcp:187242:1"/>
+            <head>TO HIS MAJESTIES HIGH COMMISSIONER And the Right Honourable the Estates of Parliament,</head>
+            <head type="sub">
+               <hi>Evan M<seg rend="sup">c</seg>grigor</hi> Merchant in <hi>Edinburgh,</hi> and Master of the Caird Manufactory,</head>
+            <opener>Humblie Sheweth.</opener>
+            <p>THat where by an Act of <hi>Parliament</hi> 1661. the Act of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> 1633 against the <hi>Clan Mcgrigor,</hi> and supressing the Name therof was rescinded, since which time, all were in <hi>bona fide</hi> to bear and use the Name of <hi>McGrigor,</hi> And I being only born about that time have since in all my life, Trade and Correspondencies both at home &amp; abroad used the same Name without the least ground of scruple, &amp; this Name having been used by me bred to be a Merchant and for the most part residing at <hi>Leith,</hi> and there exerceing the for said Manu<g ref="char:EOLhyphen"/>factorie, which hath ingaged me in many Correspondencies both at home and abroad: It is Evident that on the one hand my continuing of the said Name can be no prejudice to any design that ever was or now may be for the general peace &amp; in order to the greater quiet of the <hi>Highlands,</hi> and on the other hand that my discontinuing of the same cannot but bring a great confusion upon my Trade and all my Affairs, which may in effect tend to my utter ruine: and therefore seing it pleased this Honourable Parliament by the 39th Act of their last Session intituled Act for the Justiciarie in the <hi>Highlands,</hi> to revive the Act of Parliament 1633 against the <hi>Clan Grigor,</hi> notwithstanding that the same was rescinded in the Year 1661 and to Annull and make void the said Act rescissory: your Petitioner craves leave in all humility to represent that first and last It appears to have been the meaning and design of these Acts to suppress and discharge the forsaid Name only in the <hi>Highlands</hi> as one of the remedies for the peace of that Country. Secondly, that its clear the forsaid last Act
+<pb n="2" facs="tcp:187242:2"/>of Parliament 1693 Doth, revive the forsaid Act 1633 only transient<g ref="char:EOLhyphen"/>ly, And to make the main design of the act for Comissions of Justiciarie against Robberies in the <hi>Highlands</hi> more effectuall; So that with all sub<g ref="char:EOLhyphen"/>mission I may take the freedom to say that the case and Concern of private persons living in the Lowlands, and ingaged in private Trades and Imploy<g ref="char:EOLhyphen"/>ments, was not at that time so much as under the Parliaments Consideration. And <hi>3ly</hi> That as Your Petitioner hath already found the prejudice of the said Act 1693 in hindering his using diligence for Bonds and Bills in his Name, which he humbly supposes, was never thereby intended; So unless this High and Honourable Court provide some restriction and remedie for Your Petitioner in his case living in the Lowlands, and ingaged and fol<g ref="char:EOLhyphen"/>lowing Comerce and Imployment there, the rigorous Execution of the forsaid Act 1633 revived as said is, most necessarlie tend to his utter ruine and undoing.</p>
+            <p>
+               <hi>May it therefor please Your Grace and this High and Honourable Court of Parliament, to declair that the forsaid Act</hi> 1633 <hi>against the Clan grigor revived by the said Act</hi> 1693 <hi>is not to extend to Your Petitioner resideing at Leith, and in the Lowlands and ingaged in Trade and Manusactory as said is. But that he and his posterity after him may use the the forsaid Name as hitherto they have used the same not<g ref="char:EOLhyphen"/>withstanding of the forsaid Act of Parliament, and without the Incurring the pains thereof in any sort, sicklike and alse freely as if the forsaid Act of Parliament</hi> 1661 <hi>were still standing in Ʋigor.</hi>
+            </p>
+            <closer>And Your Graces Petitioner shall ever Pray.</closer>
+            <pb facs="tcp:187242:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
